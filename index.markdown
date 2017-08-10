@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students Discussion Group
+title: Student Discussion Group
 ---
 ## A Dicussion Group of Graduate Students at IMSc
 
