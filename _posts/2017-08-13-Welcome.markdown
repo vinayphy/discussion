@@ -9,7 +9,7 @@ Matter Physics and Biological Physics with the topic - *Stochastic Thermodynamic
 The initial set of talks will be given by [Rajesh Singh](https://rajeshrinet.github.io/)
 and then it will be followed up by other speakers. Rajesh will start by discussing the 
 following review article:  
-* Seifert, Udo. [“Stochastic thermodynamics, fluctuation theorems and molecular machines.”](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta)Reports on Progress in Physics 75.12 (2012): 126001.
+* Seifert, Udo. [“Stochastic thermodynamics, fluctuation theorems and molecular machines.”](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
   
 To quote from the article:
 
@@ -22,10 +22,7 @@ To quote from the article:
 > biochemical networks and thermoelectric devices involving single electron transport.
 
   
-In recent years, stochastic thermodynamics have attracted a lot of
-attention in various branches of statistical physics [1-4]. We plan to
-systematically discuss these topics over the course of our meetings.
-  
+In recent years, stochastic thermodynamics has attracted a lot of attention in various branches of statistical physics [1-4]. We plan to systematically discuss these topics over the course of our meetings.
   
 Please let us know if you would like to join our mailing list.
 
