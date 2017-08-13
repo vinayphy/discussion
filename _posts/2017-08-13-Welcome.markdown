@@ -7,8 +7,13 @@ date:   2017-08-13 18:52:21 -0500
 We are planning to restart our weekly discussion meetings on Condensed
 Matter Physics and Biological Physics with the topic - *Stochastic Thermodynamics*. 
 The initial set of talks will be given by [Rajesh Singh](https://rajeshrinet.github.io/)
-and then it will be followed up by other speakers. Rajesh will start by discussing the 
-following review article:  
+and then it will be followed up by other speakers. 
+
+# Time and venue for the Discussion:
+**Time:** Saturday, 2 PM
+**Venue:** 326/327
+Time and venue can be changed depending on availability. But changes will be communicated through the mailing list. 
+Rajesh will start by discussing the following review article:  
 * Seifert, Udo. [“Stochastic thermodynamics, fluctuation theorems and molecular machines.”](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
   
 To quote from the article:
@@ -31,4 +36,4 @@ Please let us know if you would like to join our mailing list. There are some re
 3. Ciliberto, S. ["Experiments in stochastic thermodynamics: Short history and perspectives."](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.021051) Physical Review X 7.2 (2017): 021051.
 4. Elouard, Cyril, et al. ["The role of quantum measurement in stochastic thermodynamics."](https://www.nature.com/articles/s41534-017-0008-4?WT.feed_name=subjects_quantum-physics) npj Quantum Information 3.1 (2017): 9.
 
-For each discussion we will have commenting facility through [Disqus](https://disqus.com/) so that people could discuss among each other even after the talk.
+For each discussion, we will have commenting facility through [Disqus](https://disqus.com/) so that people could discuss among each other even after the talk.
