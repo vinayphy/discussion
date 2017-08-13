@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Discussion Group  
-subtitle: Condensed Matter|Biological Physics
+subtitle: Condensed Matter and Biological Physics
 ---
 # A Dicussion Group of Graduate Students at IMSc
 
