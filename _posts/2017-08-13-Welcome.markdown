@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Welcome to Student Discussion Group @IMSc!"
+date:   2017-08-13 18:52:21 -0500
+---
+
+We are planning to restart our weekly discussion meetings on Condensed
+Matter Physics and Biological Physics with the topic - *Stochastic Thermodynamics*. 
+The initial set of talks will be given by [Rajesh Singh](https://rajeshrinet.github.io/)
+and then it will be followed up by other speakers. Rajesh will start by discussing the 
+following review article:  
+* Seifert, Udo. [“Stochastic thermodynamics, fluctuation theorems and molecular machines.”]
+(http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) 
+Reports on Progress in Physics 75.12 (2012): 126001.
+  
+To quote from the article
+
+
+> Stochastic thermodynamics as reviewed here systematically provides a framework for
+> extending the notions of classical thermodynamics such as work, heat and entropy production
+> to the level of individual trajectories of well-defined non-equilibrium ensembles. It applies
+> whenever a non-equilibrium process is still coupled to one (or several) heat bath(s) of constant
+> temperature. Paradigmatic systems are single colloidal particles in time-dependent laser traps,
+> polymers in external flow, enzymes and molecular motors in single molecule assays, small
+> biochemical networks and thermoelectric devices involving single electron transport.
+
+  
+In recent years, stochastic thermodynamics have attracted a lot of
+attention in various branches of statistical physics [1-4]. We plan to
+systematically discuss these topics over the course of our meetings.
+  
+  
+Please let us know if you would like to join our mailing list.
+
+
