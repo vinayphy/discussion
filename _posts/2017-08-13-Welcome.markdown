@@ -14,7 +14,7 @@ and then it will be followed up by other speakers.
 **Venue:** 326/327  
 Time and venue can be changed depending on availability. But changes will be communicated through the mailing list.  
   
-  
+## Discussion Plan: 
 Rajesh will start by discussing the following review article:  
 * Seifert, Udo. [“Stochastic thermodynamics, fluctuation theorems and molecular machines.”](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
   
