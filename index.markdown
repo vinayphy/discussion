@@ -17,10 +17,8 @@ This page contains the details that come out of the discussions held almost each
 * Ciliberto, S. ["Experiments in stochastic thermodynamics: Short history and perspectives."](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.021051) Physical Review X 7.2 (2017): 021051.
 * Elouard, Cyril, et al. ["The role of quantum measurement in stochastic thermodynamics."](https://www.nature.com/articles/s41534-017-0008-4?WT.feed_name=subjects_quantum-physics) npj Quantum Information 3.1 (2017): 9.
   
-  
-  
-  
-  
+
+## Archived Discussions:  
 * Some of the old discussions are archived [here.](https://www.imsc.res.in/~kamalt/discussions.html)
 
 
