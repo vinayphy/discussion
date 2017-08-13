@@ -38,4 +38,4 @@ Please let us know if you would like to join our mailing list. There are some re
 3. Ciliberto, S. ["Experiments in stochastic thermodynamics: Short history and perspectives."](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.021051) Physical Review X 7.2 (2017): 021051.
 4. Elouard, Cyril, et al. ["The role of quantum measurement in stochastic thermodynamics."](https://www.nature.com/articles/s41534-017-0008-4?WT.feed_name=subjects_quantum-physics) npj Quantum Information 3.1 (2017): 9.
 
-For each discussion, we will have commenting facility through [Disqus](https://disqus.com/) so that people could discuss among each other even after the talk.
+For each discussion, we will have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
