@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Student Discussion Group  
-subtitle: Condensed Matter | Biological Physics
+subtitle: Condensed Matter|Biological Physics
 ---
 # A Dicussion Group of Graduate Students at IMSc
 
 This page contains the details that come out of the discussions held almost each week on Saturday at IMSc Chennai. A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
-## Present Discussion Topic: Stochastic Thermodynamics
+## Present Discussion Topic: *Stochastic Thermodynamics*
 
 ## Some Refrences:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
