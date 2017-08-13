@@ -8,7 +8,7 @@ subtitle: Condensed Matter and Biological Physics
 This page contains the details that come out of the discussions held almost each week on Saturday at IMSc Chennai. A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
 ## Present Discussion Topic: 
-* ***Stochastic Thermodynamics***
+* ***Stochastic Thermodynamics***  
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## Some References:
