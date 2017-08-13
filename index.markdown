@@ -7,9 +7,10 @@ subtitle: Condensed Matter|Biological Physics
 
 This page contains the details that come out of the discussions held almost each week on Saturday at IMSc Chennai. A group of graduate students, primarily from Physics and Computational Biology, participate in the discussion.
 
-## Present Discussion Topic: *Stochastic Thermodynamics*
+## Present Discussion Topic: 
+* ***Stochastic Thermodynamics***
 
-## Some Refrences:
+## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
 * Blickle, Valentin, and Clemens Bechinger. ["Realization of a micrometre-sized stochastic heat engine."](https://www.nature.com/nphys/journal/v8/n2/full/nphys2163.html) Nature Physics 8.2 (2012): 143.
 * Sudeesh Krishnamurthy, Subho Ghosh, Dipankar Chatterji, Rajesh Ganapathy and A. K. Sood. ["A micrometre-sized heat engine operating between bacterial reservoirs."](http://www.nature.com/nphys/journal/v12/n12/abs/nphys3870.html) Nature Physics 12.12 (2016): 1134.
