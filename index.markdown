@@ -12,10 +12,10 @@ This page contains the details that come out of the discussions held almost each
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
-Speaker:      [Rajesh Singh](https://rajeshrinet.github.io/)
-Date   :      August 19, 2017, Saturday
-Time   :      14:00
-Venue  :      Room No. 327 or 326
+Speaker:      [Rajesh Singh](https://rajeshrinet.github.io/)  
+Date   :      August 19, 2017, Saturday  
+Time   :      14:00  
+Venue  :      Room No. 327 or 326  
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
