@@ -16,6 +16,7 @@ Speaker :      [Rajesh Singh](https://rajeshrinet.github.io/)
 Date    :      August 26, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
+[More details](https://vinayphy.github.io/discussion/2017/08/entropy_production)
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
