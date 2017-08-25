@@ -23,8 +23,7 @@ Venue   :      Room No. 327 or 326
 * Sudeesh Krishnamurthy, Subho Ghosh, Dipankar Chatterji, Rajesh Ganapathy and A. K. Sood. ["A micrometre-sized heat engine operating between bacterial reservoirs."](http://www.nature.com/nphys/journal/v12/n12/abs/nphys3870.html) Nature Physics 12.12 (2016): 1134.
 * Ciliberto, S. ["Experiments in stochastic thermodynamics: Short history and perspectives."](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.021051) Physical Review X 7.2 (2017): 021051.
 * Elouard, Cyril, et al. ["The role of quantum measurement in stochastic thermodynamics."](https://www.nature.com/articles/s41534-017-0008-4?WT.feed_name=subjects_quantum-physics) npj Quantum Information 3.1 (2017): 9.
-* Seifert, Udo. ["Entropy production along a stochastic trajectory and an integral fluctuation theorem."]
-(https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.040602) Physical review letters 95.4 (2005): 040602.
+* Seifert, Udo. ["Entropy production along a stochastic trajectory and an integral fluctuation theorem."](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.040602) Physical review letters 95.4 (2005): 040602.
   
 
 ## Archived Discussions:  
