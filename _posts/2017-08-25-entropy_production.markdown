@@ -6,8 +6,7 @@ date:   2017-08-25 18:52:21 -0500
 
 [Rajesh](https://rajeshrinet.github.io/) will also be giving this week's talk. He will give a quick summary of his last talk and then go through the following paper by Udo Seifert in detail:  
 
-Seifert, Udo. ["Entropy production along a stochastic trajectory and an integral fluctuation theorem."]
-(https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.040602)Physical review letters 95.4 (2005): 040602.
+Seifert, Udo. ["Entropy production along a stochastic trajectory and an integral fluctuation theorem."](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.040602) Physical review letters 95.4 (2005): 040602.
 
 ## Time and venue for the Discussion:
 **Time:** Saturday (August 26, 2017), 2 PM  
