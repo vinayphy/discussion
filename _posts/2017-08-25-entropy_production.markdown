@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Student Discussion Group @IMSc!"
+title:  "Stochastic Thermodynamics|Entropy Production"
 date:   2017-08-25 18:52:21 -0500
 ---
 
