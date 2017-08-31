@@ -12,11 +12,11 @@ This page contains the details that come out of the discussions held almost each
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
-Speaker :      [Rajesh Singh](https://rajeshrinet.github.io/)  
-Date    :      August 26, 2017, Saturday  
+Speaker :      Rishu Kumar Singh 
+Date    :      September 02, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphy.github.io/discussion/2017/08/entropy_production)
+[More details](https://vinayphy.github.io/discussion/2017/08/Stochastic_Differential_Equation)
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
@@ -25,6 +25,9 @@ Venue   :      Room No. 327 or 326
 * Ciliberto, S. ["Experiments in stochastic thermodynamics: Short history and perspectives."](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.021051) Physical Review X 7.2 (2017): 021051.
 * Elouard, Cyril, et al. ["The role of quantum measurement in stochastic thermodynamics."](https://www.nature.com/articles/s41534-017-0008-4?WT.feed_name=subjects_quantum-physics) npj Quantum Information 3.1 (2017): 9.
 * Seifert, Udo. ["Entropy production along a stochastic trajectory and an integral fluctuation theorem."](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.040602) Physical review letters 95.4 (2005): 040602.
+* Gillespie, Daniel T. ["The mathematics of Brownian motion and Johnson noise."](http://aapt.scitation.org/doi/abs/10.1119/1.18210) American Journal of Physics 64.3 (1996): 225-240.
+* Lau, Andy WC, and Tom C. Lubensky. ["State-dependent diffusion: Thermodynamic consistency and its path integral formulation."](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.011123) Physical Review E 76.1 (2007): 011123.
+* Van Kampen, N. G. ["Itô versus stratonovich."](https://link.springer.com/article/10.1007/BF01007642) Journal of Statistical Physics 24.1 (1981): 175-187.
   
 
 ## Archived Discussions:  
