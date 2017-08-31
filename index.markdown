@@ -12,7 +12,7 @@ This page contains the details that come out of the discussions held almost each
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
-Speaker :      Rishu Kumar Singh 
+Speaker :      Rishu Kumar Singh  
 Date    :      September 02, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
