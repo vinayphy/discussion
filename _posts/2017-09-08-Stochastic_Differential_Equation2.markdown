@@ -20,5 +20,8 @@ He will discuss how stochastic differential equations can be used to model syste
 
 Volpe, Giovanni, and Jan Wehr. ["Effective drifts in dynamical systems with multiplicative noise: a review of recent progress."](http://iopscience.iop.org/article/10.1088/0034-4885/79/5/053901/meta;jsessionid=F2EA1EB22F3F25B2A084E276DDA2A95F.ip-10-40-1-105)Reports on Progress in Physics 79.5 (2016): 053901.
 
+## White and Coloured Noise:
+During the last meeting, we had some discussion over white and coloured noise. [Devanand](https://www.imsc.res.in/~devanandt/) has come up with a write-up for the same, which can be found [here](https://github.com/dexterdev/ARTICLES/blob/master/White_noise_versus_colored_noise.pdf).
+
 
 For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
