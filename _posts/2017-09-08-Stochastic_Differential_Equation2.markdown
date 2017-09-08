@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stochastic Thermodynamics : Stochastic Differential Equation"
+title:  "Stochastic Thermodynamics : Stochastic Differential Equation-II"
 date:   2017-09-08 18:52:21 -0500
 ---
 
@@ -18,8 +18,7 @@ He will discuss how stochastic differential equations can be used to model syste
 
 ## Some references for this talk:
 
-Volpe, Giovanni, and Jan Wehr. ["Effective drifts in dynamical systems with multiplicative noise: a review of recent progress."]
-(http://iopscience.iop.org/article/10.1088/0034-4885/79/5/053901/meta;jsessionid=F2EA1EB22F3F25B2A084E276DDA2A95F.ip-10-40-1-105)Reports on Progress in Physics 79.5 (2016): 053901.
+Volpe, Giovanni, and Jan Wehr. ["Effective drifts in dynamical systems with multiplicative noise: a review of recent progress."](http://iopscience.iop.org/article/10.1088/0034-4885/79/5/053901/meta;jsessionid=F2EA1EB22F3F25B2A084E276DDA2A95F.ip-10-40-1-105)Reports on Progress in Physics 79.5 (2016): 053901.
 
 
 For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
