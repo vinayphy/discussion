@@ -17,7 +17,7 @@ discussion and plan the upcoming talks.
 
 ## Time and venue for the Discussion:
 **Time:** Saturday (Setember 16, 2017), 2 PM  
-**Venue:** 326/327  https://github.com/mattja/sdeint
+**Venue:** 326/327 
 
 
 ## Some references for this talk:
