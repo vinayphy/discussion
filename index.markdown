@@ -13,10 +13,10 @@ More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
 Speaker :      Rajesh Singh  
-Date    :      September 09, 2017, Saturday  
+Date    :      September 16, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphy.github.io/discussion/2017/09/Stochastic_Differential_Equation2)
+[More details](https://vinayphy.github.io/discussion/2017/09/Large_Deviation_Theory)
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
@@ -29,6 +29,9 @@ Venue   :      Room No. 327 or 326
 * Lau, Andy WC, and Tom C. Lubensky. ["State-dependent diffusion: Thermodynamic consistency and its path integral formulation."](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.76.011123) Physical Review E 76.1 (2007): 011123.
 * Van Kampen, N. G. ["Itô versus stratonovich."](https://link.springer.com/article/10.1007/BF01007642) Journal of Statistical Physics 24.1 (1981): 175-187.
 * Volpe, Giovanni, and Jan Wehr. ["Effective drifts in dynamical systems with multiplicative noise: a review of recent progress."](http://iopscience.iop.org/article/10.1088/0034-4885/79/5/053901/meta;jsessionid=F2EA1EB22F3F25B2A084E276DDA2A95F.ip-10-40-1-105)Reports on Progress in Physics 79.5 (2016): 053901.
+* Touchette, Hugo. ["The large deviation approach to statistical mechanics."](http://www.sciencedirect.com/science/article/pii/S0370157309001410) Physics Reports 478.1 (2009): 1-69.
+ 
+* Touchette, Hugo. ["Introduction to dynamical large deviations of Markov processes."](https://arxiv.org/abs/1705.06492) arXiv preprint arXiv:1705.06492 (2017).
   
 
 ## Archived Discussions:  
