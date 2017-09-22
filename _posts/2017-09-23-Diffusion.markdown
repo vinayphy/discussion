@@ -23,6 +23,8 @@ Some of the numerical implementations will also be presented.
 
 * Speck, T., and U. Seifert. ["Restoring a fluctuation-dissipation theorem in a nonequilibrium steady state."](http://iopscience.iop.org/article/10.1209/epl/i2005-10549-4/meta) EPL (Europhysics Letters) 74.3 (2006): 391. 
 
+* Chandrasekhar, Subrahmanyan. ["Stochastic problems in physics and astronomy."](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.15.1) Reviews of modern physics 15.1 (1943): 1.
+
 * Risken, Hannes. "Fokker-planck equation.[" The Fokker-Planck Equation](https://link.springer.com/chapter/10.1007/978-3-642-61544-3_4). Springer Berlin Heidelberg, 1996. 63-95.
 
 * Van Kampen, Nicolaas Godfried. [Stochastic processes in physics and chemistry](https://books.google.co.in/books?hl=en&lr=&id=3e7XbMoJzmoC&oi=fnd&pg=PP2&dq=van+kampen+stochastic+processes+in+physics&ots=Ads9r_tdrO&sig=qm0CSshu6JUKsP9cHgkkVO_u-9g#v=onepage&q=van%20kampen%20stochastic%20processes%20in%20physics&f=false). Vol. 1. Elsevier, 1992.
