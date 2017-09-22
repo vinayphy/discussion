@@ -12,11 +12,11 @@ This page contains the details that come out of the discussions held almost each
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
-Speaker :      Rajesh Singh  
-Date    :      September 16, 2017, Saturday  
+Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)
+Date    :      September 23, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphy.github.io/discussion/2017/09/Large_Deviation_Theory)
+[More details](https://vinayphy.github.io/discussion/2017/09/Diffusion)
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
@@ -32,6 +32,10 @@ Venue   :      Room No. 327 or 326
 * Touchette, Hugo. ["The large deviation approach to statistical mechanics."](http://www.sciencedirect.com/science/article/pii/S0370157309001410) Physics Reports 478.1 (2009): 1-69.
  
 * Touchette, Hugo. ["Introduction to dynamical large deviations of Markov processes."](https://arxiv.org/abs/1705.06492) arXiv preprint arXiv:1705.06492 (2017).
+
+* Blickle, Valentin, et al. ["Einstein relation generalized to nonequilibrium."](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.98.210601) Physical review letters 98.21 (2007): 210601.
+
+* Speck, T., and U. Seifert. ["Restoring a fluctuation-dissipation theorem in a nonequilibrium steady state."](http://iopscience.iop.org/article/10.1209/epl/i2005-10549-4/meta) EPL (Europhysics Letters) 74.3 (2006): 391. 
   
 
 ## Archived Discussions:  
