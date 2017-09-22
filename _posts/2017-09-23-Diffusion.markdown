@@ -6,7 +6,7 @@ date:   2017-09-22 18:52:21 -0500
 
  
 
-[Vinay](https://www.imsc.res.in/~vinayv/) will be giving a couple of talks on diffusion. He will start with discussing the various conventional descriptions of diffusion in equilibrium systems and then some of the recent developments happend in order to generalize the Einstein relation to nonequilibrium systems, will be discussed.
+[Vinay](https://www.imsc.res.in/~vinayv/) will be giving a couple of talks on diffusion. He will start with discussing the various conventional descriptions of diffusion in equilibrium systems and then some of the recent developments happened in order to generalize the Einstein relation to nonequilibrium systems, will be discussed.
 
 
 
