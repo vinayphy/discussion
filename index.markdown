@@ -12,11 +12,11 @@ This page contains the details that come out of the discussions held almost each
 More details [here](https://vinayphy.github.io/discussion/2017/08/welcome)
 
 ## The Upcoming Discussion:
-Speaker :      [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)  
-Date    :      September 23, 2017, Saturday  
+Speaker :      [Kamal Tripathi](https://www.imsc.res.in/~kamalt/)  
+Date    :      September 30, 2017, Saturday  
 Time    :      14:00  
 Venue   :      Room No. 327 or 326  
-[More details](https://vinayphy.github.io/discussion/2017/09/Diffusion)
+[More details](https://vinayphy.github.io/discussion/2017/09/Fokker-Planck-Equation)
 
 ## Some References:
 * Seifert, Udo. ["Stochastic thermodynamics, fluctuation theorems and molecular machines."](http://iopscience.iop.org/article/10.1088/0034-4885/75/12/126001/meta) Reports on Progress in Physics 75.12 (2012): 126001.
