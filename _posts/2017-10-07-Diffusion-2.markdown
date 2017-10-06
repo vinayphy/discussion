@@ -6,7 +6,7 @@ date:   2017-10-06 18:52:21 -0500
 
  
 
-[Vinay](https://www.imsc.res.in/~vinayv/) will present the second discussion on diffusion on this coming Saturday. In the last discussion, he discussed different methods to deal with diffusion in equilibrium system. This time, he will start with a review of the last discussion and then he will discuss the case of diffusion under external potential.
+[Vinay](https://www.imsc.res.in/~vinayv/) will present the second discussion on diffusion tomorrow. In the last discussion, he discussed different methods to deal with diffusion in equilibrium system. This time, he will start with a review of the last discussion and then he will discuss the case of diffusion under external potential.
   
 
 
