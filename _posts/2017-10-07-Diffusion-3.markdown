@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stochastic Thermodynamics : Diffusion-II"
+title:  "Stochastic Thermodynamics : Diffusion-III"
 date:   2017-10-20 18:52:21 -0500
 ---
 
