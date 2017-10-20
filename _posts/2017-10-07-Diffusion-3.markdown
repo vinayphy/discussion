@@ -6,7 +6,7 @@ date:   2017-10-20 18:52:21 -0500
 
  
 
-We will continue the discussion of diffusion under potential. We shall discuss the case of time-dependent and time-independent external potential with some examples (linear potential, squared potential and time-dependent harmonic potential).
+We will continue the discussion on diffusion under potential. We shall discuss the case of time-dependent and time-independent external potential with some examples (linear potential, squared potential and time-dependent harmonic potential).
   
 
 
