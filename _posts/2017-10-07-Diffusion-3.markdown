@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Stochastic Thermodynamics : Diffusion-II"
+date:   2017-10-20 18:52:21 -0500
+---
+
+ 
+
+We will continue the discussion of diffusion under potential. We shall discuss the case of time-dependent and time-independent external potential along with some examples (linear potential, squared potential and time-dependent harmonic potential).
+  
+
+
+## Time and venue for the Discussion:
+**Time:** Saturday (October 21, 2017), 2 PM  
+**Venue:** 326/327 
+
+
+
+## Slides for diffusion in equilibrium system (first and second discussion on diffusion):
+[Diffusion: Diffusion in Equilibrium System](https://www.imsc.res.in/~vinayv/discussion/diffusion_Updated.pdf) by [Vinay Vaibhav](https://www.imsc.res.in/~vinayv/)
+
+
+
+## Some references for this talk:
+
+* Chandrasekhar, Subrahmanyan. ["Stochastic problems in physics and astronomy."](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.15.1) Reviews of modern physics 15.1 (1943): 1.
+
+* Risken, Hannes. "Fokker-planck equation.[" The Fokker-Planck Equation](https://link.springer.com/chapter/10.1007/978-3-642-61544-3_4). Springer Berlin Heidelberg, 1996. 63-95.
+
+* Van Kampen, Nicolaas Godfried. [Stochastic processes in physics and chemistry](https://books.google.co.in/books?hl=en&lr=&id=3e7XbMoJzmoC&oi=fnd&pg=PP2&dq=van+kampen+stochastic+processes+in+physics&ots=Ads9r_tdrO&sig=qm0CSshu6JUKsP9cHgkkVO_u-9g#v=onepage&q=van%20kampen%20stochastic%20processes%20in%20physics&f=false). Vol. 1. Elsevier, 1992.
+
+* Balakrishnan, Venkataraman. Elements of nonequilibrium statistical mechanics. Ane Books, 2008.
+APA	
+
+* MacKeown, P. Kevin. Stochastic simulation in physics. Springer-Verlag New York, Inc., 2001.
+
+
+
+
+
+
+
+For each discussion, we have commenting facility through [Disqus](https://disqus.com/). This will enable people to discuss among each other even after the talk.
