@@ -10,7 +10,7 @@ date:   2017-10-27 18:52:21 -0500
 This week on Saturday, we shall conclude the discussion on diffusion. 
 The results from previous discussions on diffusion will be revisited and some brief remarks will be made. 
 In continuation, we'll also discuss the method to solve the multivariate Fokker-Planck equation in detail. 
-At the end, We will attempt to derive the Kramers' escape formula. 
+At the end, We will attempt to derive the Kramers' escape rate formula. 
   
 
 
