@@ -5,7 +5,7 @@ date:   2017-08-13 18:52:21 -0500
 ---
 # Welcome!
 We are planning to restart our weekly discussion meetings on [Condensed
-Matter Physics and Biological Physics](https://vinayphy.github.io/discussion/) with the topic - *Stochastic Thermodynamics*. 
+Matter Physics and Biological Physics](https://vinayphys.github.io/discussion/) with the topic - *Stochastic Thermodynamics*. 
 The initial set of talks will be given by [Rajesh Singh](https://rajeshrinet.github.io/)
 and then it will be followed up by other speakers. 
 
