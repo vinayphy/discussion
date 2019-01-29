@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Student Discussion Group @IMSc!"
+title:  ["Welcome to Student Discussion Group @IMSc!"](https://vinayphy.github.io/discussion/)
 date:   2017-08-13 18:52:21 -0500
 ---
 # Welcome!
